@@ -72,7 +72,7 @@
 <br/><br/><br/><br/><br/><br/>
 <!-- 2nd Row -->
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hossamsalah22/Multi-Vendor-Store" title="Multi Vendor Store Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Multi-Vendor-Store&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/hossamsalah22/Multi-Vendor-Store.git" title="Multi Vendor Store Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Multi-Vendor-Store&theme=react&border_color=61dafb&border_radius=10">
   
   </a><a align="right" href="https://github.com/hossamsalah22/Pharmacy-System.git" title="Pharmacy System Laravel"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Pharmacy-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
