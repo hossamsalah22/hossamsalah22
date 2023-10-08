@@ -77,14 +77,9 @@
   </a><a align="right" href="https://github.com/hossamsalah22/Pharmacy-System.git" title="Pharmacy System Laravel"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Pharmacy-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<!-- Last Row -->
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hossamsalah22/Hunting-Birds.git" title="Hunting Birds Vanilla Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Hunting-Birds&theme=react&border_color=61dafb&border_radius=10">
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/nader96x?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/hossamsalah22?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 ###
