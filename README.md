@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Hossam and I'm a Backend Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! </h2>
+<h3 align="left">My name is Hossam and I'm a Backend Developer</h3>
 
 ###
 
@@ -60,6 +61,30 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hossamsalah22/hossamsalah22/snake.svg" alt="Snake animation" />
+<h2 align="center">Repositories</h2>
+<br>
+<!-- First Row -->
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hossamsalah22/e-commerce.git" title="E-commerce Website Node.js Backend Repo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=e-commerce&theme=react&border_color=61dafb&border_radius=10">
+  
+  </a><a align="right" href="https://github.com/hossamsalah22/E-commerce_Front-end.git" title="E-commerce Website React Front Repo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=E-commerce_Front-end&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- 2nd Row -->
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hossamsalah22/Multi-Vendor-Store" title="Multi Vendor Store Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Multi-Vendor-Store&theme=react&border_color=61dafb&border_radius=10">
+  
+  </a><a align="right" href="https://github.com/hossamsalah22/Pharmacy-System.git" title="Pharmacy System Laravel"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Pharmacy-System&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- Last Row -->
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hossamsalah22/Hunting-Birds.git" title="Hunting Birds Vanilla Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Hunting-Birds&theme=react&border_color=61dafb&border_radius=10">
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/nader96x?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ###
