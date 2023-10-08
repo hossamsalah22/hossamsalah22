@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamsalah22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/hossamsalah22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -63,7 +63,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hossamsalah22/Multi-Vendor-Store.git" title="Multi Vendor Store Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Multi-Vendor-Store&theme=react&border_color=61dafb&border_radius=10">
   
-  </a><a align="left" href="https://github.com/hossamsalah22/Pharmacy-System" title="Pharmacy-System Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Pharmacy-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  </a><a align="left" href="https://github.com/hossamsalah22/Hunting-Birds.git" title="Hunting Birds Game VanillaJs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Hunting-Birds&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
 <br/><br/><br/><br/><br/><br/>
 
