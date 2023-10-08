@@ -63,7 +63,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hossamsalah22/Multi-Vendor-Store.git" title="Multi Vendor Store Laravel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Multi-Vendor-Store&theme=react&border_color=61dafb&border_radius=10">
   
-  </a><a align="left" href="https://github.com/hossamsalah22/Hunting-Birds.git" title="Hunting Birds Game VanillaJs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Hunting-Birds&theme=react&border_color=61dafb&border_radius=10"></a>
+  </a><a align="right" href="https://github.com/hossamsalah22/Hunting-Birds.git" title="Hunting Birds Game VanillaJs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamsalah22&repo=Hunting-Birds&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
 <br/><br/><br/><br/><br/><br/>
 
